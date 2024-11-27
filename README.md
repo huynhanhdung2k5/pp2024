@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Huynh Anh Dung ICT1 
+* Student Name: Huynh Anh Dung 
 * Student ID: 23BI14114
 

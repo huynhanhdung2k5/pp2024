@@ -1,4 +1,3 @@
-
 students = [] 
 courses = [] 
 marks = []
